@@ -1,0 +1,2 @@
+order_id,shop_name,shop_id,cost
+1,shop_name_2,1,100
